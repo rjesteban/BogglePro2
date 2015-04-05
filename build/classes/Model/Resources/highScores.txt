@@ -1,0 +1,3 @@
+gwapo ->  0
+Paks ->  3
+gwapoKaayo ->  10
